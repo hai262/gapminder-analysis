@@ -38,7 +38,7 @@ if page == "Home":
     - **Advanced Insights** (Comparative analytics, 3D plots, and more!)
     
     """)
-    st.image("https://upload.wikimedia.org/wikipedia/commons/6/6d/Gapminder-dollargdp-vs-lifeexpectancy.gif", caption="Economic Growth vs. Life Expectancy", use_column_width=True)
+    #st.image("https://upload.wikimedia.org/wikipedia/commons/6/6d/Gapminder-dollargdp-vs-lifeexpectancy.gif", caption="Economic Growth vs. Life Expectancy", use_container_width=True)
 # Economic Indicators Page
 elif page == "Economic Indicators":
     st.subheader("💰 :green[Economic Indicators]")
